@@ -1,1 +1,1 @@
-# transit_ridership_forecasting
+# Spatial-, and temporal-transferrable model for transit ridership forecasting
